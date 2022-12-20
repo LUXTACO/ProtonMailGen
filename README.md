@@ -1,6 +1,6 @@
 # ProtonMailGen
 
-A "simple" proton mail generator using the selenium webdriver also has the ability to use proxies.
+A "simple" proton mail generator using the selenium webdriver also has the ability to use proxies its not finished and I dont really have intentions on finishing it, Im just posting so that you can use it (maybe I'll update if I see that its doing good on github).
 
 [![showcase](https://github.com/LUXTACO/ProtonMailGen/blob/5917a13aec07f3639854ef8255789875559986e2/assets/showcase.png?raw=true "showcase")](https://github.com/LUXTACO/ProtonMailGen/blob/5917a13aec07f3639854ef8255789875559986e2/assets/showcase.png?raw=true "showcase")
 ##  Installation

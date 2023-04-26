@@ -6,12 +6,17 @@ A "simple" proton mail generator using the selenium webdriver also has the abili
 ##  Installation
 Use the following commands to install the loader!
 ```python
-pip install colorama
-pip install selenium
-pip install pystyle
-pip install pynput
-pip install random
 pip install requests
+pip install pyautogui
+pip install configparser
+pip install pynput
+pip install pystyle
+pip install selenium
+pip install undetected-chromedriver
+pip install art
+pip install ctypes
+pip install subprocess
+pip install pystyle
 ```
 ## Compatibility
 
@@ -29,7 +34,7 @@ Im testing compatibility on other devices.
 
 ## Features
 
-This are the current features included in the loader!
+This are the current features included in the program!
 
 - Proxy Compatibility
 - Visual Feedback
